@@ -126,12 +126,12 @@ Cluster 0, 3, and 5 has the highest attrition rate. Cluster 1 has the lowest chu
 1.	Insights. Churned customers tend to be older, have a higher balance and less likely to be an active member than those who stayed. They are also likely to have 3 and 4 products. Additionally, they have higher balances. However, they all have similar credit card scores and estimated salaries.
 2.	The best model is the deep learning model with a training accuracy of 87% and a testing accuracy of 86%.
 #### Recommendation for each cluster
-•	Group 0. Female. Low Number of Products. All Credit Cards: High Attrition (27%) with high balances. Talk to them on how bank can help them grow their savings. 
-•	Group 1. Low Balance. High Number of Products. All Credit Cards: Low Attrition rate (11%). Monitor their balance make sure they ae not running out of their cash.
-•	Group 2. Low Balance. Low Cradit cards.: Low attrition rate (17%). High earners. Sign them up for credit cards and more financial products to help them save.
-•	Group 3. Older People. All Active Members: Highest Attritions (30%). It makes sense since there are lots of seniors. Wish them a good retirement.
-•	Group 4. Males. Low number of products. All Credit Cards: Low attritions (17%). Talk to them on how bank can help them grow their savings.
-•	Group 5. High Balance. Low Number of products. No Credit Cards.: High Attritions (22%). Make an appointment. Recommend credit cards and more financial products.
+*	Group 0. Female. Low Number of Products. All Credit Cards: High Attrition (27%) with high balances. Talk to them on how bank can help them grow their savings. 
+*	Group 1. Low Balance. High Number of Products. All Credit Cards: Low Attrition rate (11%). Monitor their balance make sure they ae not running out of their cash.
+*	Group 2. Low Balance. Low Cradit cards.: Low attrition rate (17%). High earners. Sign them up for credit cards and more financial products to help them save.
+*	Group 3. Older People. All Active Members: Highest Attritions (30%). It makes sense since there are lots of seniors. Wish them a good retirement.
+*	Group 4. Males. Low number of products. All Credit Cards: Low attritions (17%). Talk to them on how bank can help them grow their savings.
+*	Group 5. High Balance. Low Number of products. No Credit Cards.: High Attritions (22%). Make an appointment. Recommend credit cards and more financial products.
 
 ## The End & Thank You For Reading.
 
