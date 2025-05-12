@@ -12,6 +12,12 @@
 ## Part 1. Case Descriptions
 The project had studied a dataset of customers from a European bank that operates in Germany, France, and Spain. The goal was to discover the pattern of features for customers who churned. And three machine learning models would be built to automate the predictions of the churned customers. Last but not the least, a cluster model would be performed to further group the customers, so the company would be able to customize its marketing strategy for different groups.
 
+## Dataset Description
+There are 12 features, and all the features are in the right data type. Not much cleaning needed to be done.
+
+![image](https://github.com/user-attachments/assets/7087425c-4e02-478f-b16e-628305c89985)
+
+
 ## Part 2. EDA Findings.
 1.	The number of total unique customers is 10000. 20.37% or 2037 of customers had churned or had left the bank. 
 2.	The age of clients ranges from 19 to 92 with the average age of 39. The estimated salaries went from 11.58 and 200,000 Euros with an average of 100,090 Euros. The bank balance was between 0 Euros and 250,898 Euros with a mean of 76,485 Euros. 75% of customers have credits, and 51% of customers are active members. Customers had spent as long as 10 years and as short as less than one year with the bank with an average tenure of 5 years.
