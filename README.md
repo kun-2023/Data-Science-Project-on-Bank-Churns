@@ -94,7 +94,7 @@ The project had studied a dataset of customers from a European bank that operate
 0:"0 Female. Low Number of Products. All Credit Cards.",
 1:"1 Low Balance. High Number of Products. All Credit Cards.",
 2:"2 Low Balance. Low Cradit cards.",
-3:"3 Older People. All Active Members.",
+3:"3 Older People. Most are Active Members.",
 4:"4 Males. Low number of products. All Credit Cards.",
 5:"5 High Balance. Low Number of products. No Credit Cards."
 Cluster 0, 3, and 5 has the highest attrition rate. Cluster 1 has the lowest churn rate. Cluster 1 and 2 have low balances, the bank should help them to save.
@@ -105,9 +105,13 @@ Cluster 0, 3, and 5 has the highest attrition rate. Cluster 1 has the lowest chu
 
 ![image](https://github.com/user-attachments/assets/73e88fc7-1e72-4c87-8b4e-be87435db810)
 
+17. Cluster Insights through histograms. Cluster 3 has the highest churn rate. It has the most senior members. They also have a low balance. Most of them have credit cards. And most of them are active members. It has confirmed the insights we get from DEA. The seniors have a tendency to leave the bank.
+![image](https://github.com/user-attachments/assets/a6ee5a5c-b32c-4c6a-ace4-d4b6e0ba5de4)
+
+![image](https://github.com/user-attachments/assets/6ccf441f-e5f7-4b30-82f4-2de3bfdeb891)
+
  
- 
-17.	PCA visualization. The clusters were not clustered clearly. They seem to be mixed up among one another. Along the x-axis, toward the plus direction, the cluster tends to have more number of products, and toward the minus direction, the cluster tends to have high balances. Along the y-axis, towards the positive direction, the cluster tends to have more active members, older members.
+18.	PCA visualization. The clusters were not clustered clearly. They seem to be mixed up among one another. Along the x-axis, toward the plus direction, the cluster tends to have more number of products, and toward the minus direction, the cluster tends to have high balances. Along the y-axis, towards the positive direction, the cluster tends to have more active members, older members.
 
 ![image](https://github.com/user-attachments/assets/c488d5bb-1d3d-4eb8-b2ca-ef61f2390c72)
 
@@ -123,4 +127,5 @@ Cluster 0, 3, and 5 has the highest attrition rate. Cluster 1 has the lowest chu
 •	Group 4. Males. Low number of products. All Credit Cards: Low attritions (17%). Talk to them on how bank can help them grow their savings.
 •	Group 5. High Balance. Low Number of products. No Credit Cards.: High Attritions (22%). Make an appointment. Recommend credit cards and more financial products.
 
+## The End & Thank You For Reading.
 
