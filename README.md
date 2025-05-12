@@ -1,16 +1,16 @@
 # Data Science Project on European Bank Customer Churns
 ## Table Of Content
 
-Part 1. Case Descriptions.
-Part 2. EDA Findings.
-Part 3. 1. Machine Learning Model – Logistic Regression.
-Part 3. 2. Machine Learning Model – Decision Tree.
-Part 3. 3.  Machine Learning Model – Deep Learning.
-Part 4. Cluster Model – K Means Clustering.
-Part 5. Conclusions & Recommendations. 
+* Part 1. Case Descriptions.
+* Part 2. EDA Findings.
+* Part 3. 1. Machine Learning Model – Logistic Regression.
+* Part 3. 2. Machine Learning Model – Decision Tree.
+* Part 3. 3.  Machine Learning Model – Deep Learning.
+* Part 4. Cluster Model – K Means Clustering.
+* Part 5. Conclusions & Recommendations. 
 
 ## Part 1. Case Descriptions
-The project had studied a dataset of customers from a European bank that operates in Germany, France, and Spain. The goal was to discover the pattern of features for customers who churned. Last but not the least, a cluster model would be performed to further group the customers, so the company would be able to customize its marketing strategy for different groups.
+The project had studied a dataset of customers from a European bank that operates in Germany, France, and Spain. The goal was to discover the pattern of features for customers who churned. And three machine learning models would be built to automate the predictions of the churned customers. Last but not the least, a cluster model would be performed to further group the customers, so the company would be able to customize its marketing strategy for different groups.
 
 ## Part 2. EDA Findings.
 1.	The number of total unique customers is 10000. 20.37% or 2037 of customers had churned or had left the bank. 
